@@ -1,4 +1,4 @@
-## Heya, I'm Maísa! 👋
+## Heya, I'm Maísa! 👋🏻
 
 I’m a **C1 English speaker** and **proactive Computer Science student** who loves turning ideas into code and contributing to team-driven projects!  
 I’m committed to continuous learning, adapting quickly to new environments, and applying practical solutions to real problems.
@@ -6,7 +6,7 @@ I’m committed to continuous learning, adapting quickly to new environments, an
 <br>![bunny](bunny.jpeg)
 
 ### 🐇 As Curious as a Bunny...
-I'm looking for **internships** and **collaborative projects** where I can apply my studies, gain practical experience, and help the team ship results! 💗
+I'm looking for **internships** and **collaborative projects** where I can apply my studies, gain practical experience, and help the team ship results! 💗 Check my tech info 👇🏻
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

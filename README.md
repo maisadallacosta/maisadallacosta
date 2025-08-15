@@ -1,7 +1,7 @@
 ## Heya, I'm Maísa! 👋
 I’m a proactive Computer Science student who loves turning ideas into code and contributing to team-driven projects. I’m committed to continuous learning, adapting quickly to new environments, and applying practical solutions to real problems.<br>
 
-![bunny](image/bunny.jpeg)
+![bunny](bunny.jpeg)
 
 <br>**Skills & tools**<br>- Programming: Python (basic), Java (basic).   <br>- Web: HTML & CSS (basic).   <br><br>**Languages**<br>- English — Cambridge C1<br><br>**What I’m looking for**<br>- Internships and collaborative projects where I can apply my studies, gain practical experience, and help the team ship results.<br>
 

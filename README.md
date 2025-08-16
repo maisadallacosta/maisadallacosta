@@ -35,7 +35,7 @@ I’m committed to continuous learning, adapting quickly to new environments, an
 </div>
 
 ## 🍓 Contact me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/maisapascoalotodallacosta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maisa2007dallacosta@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/maisapascoalotodallacosta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maisa2007dallacosta@gmail.com) 
 
 <p align="center">
   <img src="https://qph.cf2.quoracdn.net/main-qimg-3ebd27350a27d480373d23c5cd8f2f86" width="500px">
